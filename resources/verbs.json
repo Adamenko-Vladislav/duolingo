@@ -1,0 +1,1082 @@
+{
+  "verb0" : {
+    "form1" : "abide",
+    "form2" : "abode",
+    "form3" : "abode",
+    "translation" : "вытерпеть, действовать в соответствии"
+  },
+  "verb1" : {
+    "form1" : "arise",
+    "form2" : "arose",
+    "form3" : "arisen",
+    "translation" : "возникать, подниматься"
+  },
+  "verb2" : {
+    "form1" : "awake",
+    "form2" : "awoke",
+    "form3" : "awoken",
+    "translation" : "будить, пробуждать"
+  },
+  "verb3" : {
+    "form1" : "be",
+    "form2" : "was,were",
+    "form3" : "been",
+    "translation" : "быть"
+  },
+  "verb4" : {
+    "form1" : "bear",
+    "form2" : "bore",
+    "form3" : "born",
+    "translation" : "нести, переносить, сказываться"
+  },
+  "verb5" : {
+    "form1" : "beat",
+    "form2" : "beat",
+    "form3" : "beaten",
+    "translation" : "бить, побеждать"
+  },
+  "verb6" : {
+    "form1" : "become",
+    "form2" : "became",
+    "form3" : "become",
+    "translation" : "становиться, происходить"
+  },
+  "verb7" : {
+    "form1" : "begin",
+    "form2" : "began",
+    "form3" : "begun",
+    "translation" : "начинать(ся)"
+  },
+  "verb8" : {
+    "form1" : "bend",
+    "form2" : "bent",
+    "form3" : "bent",
+    "translation" : "сгибать, поворачивать, приложить усилия"
+  },
+  "verb9" : {
+    "form1" : "bet",
+    "form2" : "bet",
+    "form3" : "bet",
+    "translation" : "держать пари, быть уверенным"
+  },
+  "verb10" : {
+    "form1" : "bid",
+    "form2" : "bade",
+    "form3" : "bidden",
+    "translation" : "предлагать цену, принимать участие в торгах"
+  },
+  "verb11" : {
+    "form1" : "bind",
+    "form2" : "bound",
+    "form3" : "bound",
+    "translation" : "связывать(договором), подтверждать (сделку)"
+  },
+  "verb12" : {
+    "form1" : "bite",
+    "form2" : "bit",
+    "form3" : "bitten",
+    "translation" : "кусать(ся)"
+  },
+  "verb13" : {
+    "form1" : "bleed",
+    "form2" : "bled",
+    "form3" : "bled",
+    "translation" : "истекать кровью"
+  },
+  "verb14" : {
+    "form1" : "blow",
+    "form2" : "blew",
+    "form3" : "blown",
+    "translation" : "дуть"
+  },
+  "verb15" : {
+    "form1" : "break",
+    "form2" : "broke",
+    "form3" : "broken",
+    "translation" : "ломать(ся), нарушать, разорять(ся)"
+  },
+  "verb16" : {
+    "form1" : "breed",
+    "form2" : "bred",
+    "form3" : "bred",
+    "translation" : "воспитывать, разводить"
+  },
+  "verb17" : {
+    "form1" : "bring",
+    "form2" : "brought",
+    "form3" : "brought",
+    "translation" : "приносить"
+  },
+  "verb18" : {
+    "form1" : "broadcast",
+    "form2" : "broadcast",
+    "form3" : "broadcast",
+    "translation" : "транслировать по радио"
+  },
+  "verb19" : {
+    "form1" : "build",
+    "form2" : "built",
+    "form3" : "built",
+    "translation" : "строить"
+  },
+  "verb20" : {
+    "form1" : "burn",
+    "form2" : "burnt",
+    "form3" : "burnt",
+    "translation" : "гореть, жечь"
+  },
+  "verb21" : {
+    "form1" : "burst",
+    "form2" : "burst",
+    "form3" : "burst",
+    "translation" : "разрываться"
+  },
+  "verb22" : {
+    "form1" : "buy",
+    "form2" : "bought",
+    "form3" : "bought",
+    "translation" : "покупать"
+  },
+  "verb23" : {
+    "form1" : "cast",
+    "form2" : "cast",
+    "form3" : "cast",
+    "translation" : "бросать, подсчитывать"
+  },
+  "verb24" : {
+    "form1" : "catch",
+    "form2" : "caught",
+    "form3" : "caught",
+    "translation" : "ловить, схватывать"
+  },
+  "verb25" : {
+    "form1" : "choose",
+    "form2" : "chose",
+    "form3" : "chosen",
+    "translation" : "выбирать"
+  },
+  "verb26" : {
+    "form1" : "cling",
+    "form2" : "clung",
+    "form3" : "clung",
+    "translation" : "держаться, цепляться"
+  },
+  "verb27" : {
+    "form1" : "come",
+    "form2" : "came",
+    "form3" : "come",
+    "translation" : "приходить"
+  },
+  "verb28" : {
+    "form1" : "cost",
+    "form2" : "cost",
+    "form3" : "cost",
+    "translation" : "стоить"
+  },
+  "verb29" : {
+    "form1" : "creep",
+    "form2" : "crept",
+    "form3" : "crept",
+    "translation" : "ползать, красться"
+  },
+  "verb30" : {
+    "form1" : "cut",
+    "form2" : "cut",
+    "form3" : "cut",
+    "translation" : "резать, сокращать, снижать"
+  },
+  "verb31" : {
+    "form1" : "deal",
+    "form2" : "dealt",
+    "form3" : "dealt",
+    "translation" : "заниматься чем-л., торговать"
+  },
+  "verb32" : {
+    "form1" : "dig",
+    "form2" : "dug",
+    "form3" : "dug",
+    "translation" : "рыть, копать"
+  },
+  "verb33" : {
+    "form1" : "do",
+    "form2" : "did",
+    "form3" : "done",
+    "translation" : "делать"
+  },
+  "verb34" : {
+    "form1" : "draw",
+    "form2" : "drew",
+    "form3" : "drawn",
+    "translation" : "рисовать, перевозить, получать(деньги), оформлять(документы)"
+  },
+  "verb35" : {
+    "form1" : "dream",
+    "form2" : "dreamt",
+    "form3" : "dreamt",
+    "translation" : "мечтать, видеть сон"
+  },
+  "verb36" : {
+    "form1" : "drink",
+    "form2" : "drank",
+    "form3" : "drunk",
+    "translation" : "пить"
+  },
+  "verb37" : {
+    "form1" : "drive",
+    "form2" : "drove",
+    "form3" : "driven",
+    "translation" : "ездить, везти, вести дело"
+  },
+  "verb38" : {
+    "form1" : "dwell",
+    "form2" : "dwelt",
+    "form3" : "dwelt",
+    "translation" : "жить, подробно останавливаться"
+  },
+  "verb39" : {
+    "form1" : "eat",
+    "form2" : "ate",
+    "form3" : "eaten",
+    "translation" : "есть, кушать"
+  },
+  "verb40" : {
+    "form1" : "fall",
+    "form2" : "fell",
+    "form3" : "fallen",
+    "translation" : "падать, понижаться"
+  },
+  "verb41" : {
+    "form1" : "feed",
+    "form2" : "fed",
+    "form3" : "fed",
+    "translation" : "кормить"
+  },
+  "verb42" : {
+    "form1" : "feel",
+    "form2" : "felt",
+    "form3" : "felt",
+    "translation" : "чувствовать"
+  },
+  "verb43" : {
+    "form1" : "fight",
+    "form2" : "fought",
+    "form3" : "fought",
+    "translation" : "бороться, сражаться"
+  },
+  "verb44" : {
+    "form1" : "find",
+    "form2" : "found",
+    "form3" : "found",
+    "translation" : "находить"
+  },
+  "verb45" : {
+    "form1" : "flee",
+    "form2" : "fled",
+    "form3" : "fled",
+    "translation" : "убегать, спасаться"
+  },
+  "verb46" : {
+    "form1" : "fling",
+    "form2" : "flung",
+    "form3" : "flung",
+    "translation" : "бросать(ся)"
+  },
+  "verb47" : {
+    "form1" : "fly",
+    "form2" : "flew",
+    "form3" : "flown",
+    "translation" : "летать"
+  },
+  "verb48" : {
+    "form1" : "forbid",
+    "form2" : "forbade",
+    "form3" : "forbidden",
+    "translation" : "запрещать"
+  },
+  "verb49" : {
+    "form1" : "forcast",
+    "form2" : "forcast",
+    "form3" : "forcast",
+    "translation" : "предвидеть, предсказывать"
+  },
+  "verb50" : {
+    "form1" : "forsee",
+    "form2" : "forsaw",
+    "form3" : "forseen",
+    "translation" : "предвидеть, предсказывать"
+  },
+  "verb51" : {
+    "form1" : "forget",
+    "form2" : "forgot",
+    "form3" : "forgotten",
+    "translation" : "забывать"
+  },
+  "verb52" : {
+    "form1" : "forgive",
+    "form2" : "forgave",
+    "form3" : "forgiven",
+    "translation" : "прощать"
+  },
+  "verb53" : {
+    "form1" : "forgo",
+    "form2" : "forwent",
+    "form3" : "forgone",
+    "translation" : "отказываться, воздерживаться"
+  },
+  "verb54" : {
+    "form1" : "forsake",
+    "form2" : "forsook",
+    "form3" : "forsaken",
+    "translation" : "бросать, отказываться"
+  },
+  "verb55" : {
+    "form1" : "freeze",
+    "form2" : "froze",
+    "form3" : "frozen",
+    "translation" : "морозить, замораживать"
+  },
+  "verb56" : {
+    "form1" : "get",
+    "form2" : "got",
+    "form3" : "got",
+    "translation" : "получать, становиться"
+  },
+  "verb57" : {
+    "form1" : "give",
+    "form2" : "gave",
+    "form3" : "given",
+    "translation" : "давать"
+  },
+  "verb58" : {
+    "form1" : "go",
+    "form2" : "went",
+    "form3" : "gone",
+    "translation" : "идти, ехать"
+  },
+  "verb59" : {
+    "form1" : "grind",
+    "form2" : "ground",
+    "form3" : "ground",
+    "translation" : "точить, молоть"
+  },
+  "verb60" : {
+    "form1" : "grow",
+    "form2" : "grew",
+    "form3" : "grown",
+    "translation" : "расти, становиться"
+  },
+  "verb61" : {
+    "form1" : "hang",
+    "form2" : "hung",
+    "form3" : "hung",
+    "translation" : "висеть"
+  },
+  "verb62" : {
+    "form1" : "have",
+    "form2" : "had",
+    "form3" : "had",
+    "translation" : "иметь"
+  },
+  "verb63" : {
+    "form1" : "hear",
+    "form2" : "heard",
+    "form3" : "heard",
+    "translation" : "слышать"
+  },
+  "verb64" : {
+    "form1" : "hide",
+    "form2" : "hid",
+    "form3" : "hidden",
+    "translation" : "прятать(ся)"
+  },
+  "verb65" : {
+    "form1" : "hit",
+    "form2" : "hit",
+    "form3" : "hit",
+    "translation" : "попадать, ударять"
+  },
+  "verb66" : {
+    "form1" : "hold",
+    "form2" : "held",
+    "form3" : "held",
+    "translation" : "держать, владеть"
+  },
+  "verb67" : {
+    "form1" : "hurt",
+    "form2" : "hurt",
+    "form3" : "hurt",
+    "translation" : "причинять боль, вред"
+  },
+  "verb68" : {
+    "form1" : "keep",
+    "form2" : "kept",
+    "form3" : "kept",
+    "translation" : "хранить, продолжать, обеспечивать, содержать"
+  },
+  "verb69" : {
+    "form1" : "kneel",
+    "form2" : "knelt",
+    "form3" : "knelt",
+    "translation" : "преклонять колени"
+  },
+  "verb70" : {
+    "form1" : "knit",
+    "form2" : "knit",
+    "form3" : "knit",
+    "translation" : "вязать, соединять(ся)"
+  },
+  "verb71" : {
+    "form1" : "know",
+    "form2" : "knew",
+    "form3" : "known",
+    "translation" : "знать"
+  },
+  "verb72" : {
+    "form1" : "lay",
+    "form2" : "laid",
+    "form3" : "laid",
+    "translation" : "класть,возлагать, накладывать(штраф)"
+  },
+  "verb73" : {
+    "form1" : "lead",
+    "form2" : "led",
+    "form3" : "led",
+    "translation" : "вести, руководить"
+  },
+  "verb74" : {
+    "form1" : "lean",
+    "form2" : "leant",
+    "form3" : "leant",
+    "translation" : "прислонять(ся)"
+  },
+  "verb75" : {
+    "form1" : "leap",
+    "form2" : "leapt",
+    "form3" : "leapt",
+    "translation" : "прыгать, подскакивать, резко меняться"
+  },
+  "verb76" : {
+    "form1" : "learn",
+    "form2" : "learnt",
+    "form3" : "learnt",
+    "translation" : "учить(ся), узнавать"
+  },
+  "verb77" : {
+    "form1" : "leave",
+    "form2" : "left",
+    "form3" : "left",
+    "translation" : "оставлять, покидать"
+  },
+  "verb78" : {
+    "form1" : "lend",
+    "form2" : "lent",
+    "form3" : "lent",
+    "translation" : "давать взаймы"
+  },
+  "verb79" : {
+    "form1" : "let",
+    "form2" : "let",
+    "form3" : "let",
+    "translation" : "позволять"
+  },
+  "verb80" : {
+    "form1" : "lie",
+    "form2" : "lay",
+    "form3" : "lain",
+    "translation" : "лежать"
+  },
+  "verb81" : {
+    "form1" : "lie",
+    "form2" : "lied",
+    "form3" : "lied",
+    "translation" : "лгать"
+  },
+  "verb82" : {
+    "form1" : "light",
+    "form2" : "lit",
+    "form3" : "lit",
+    "translation" : "зажигать, освещать"
+  },
+  "verb83" : {
+    "form1" : "lose",
+    "form2" : "lost",
+    "form3" : "lost",
+    "translation" : "терять, проигрывать"
+  },
+  "verb84" : {
+    "form1" : "make",
+    "form2" : "made",
+    "form3" : "made",
+    "translation" : "делать"
+  },
+  "verb85" : {
+    "form1" : "mean",
+    "form2" : "meant",
+    "form3" : "meant",
+    "translation" : "намереваться, означать, иметь в виду"
+  },
+  "verb86" : {
+    "form1" : "meet",
+    "form2" : "met",
+    "form3" : "met",
+    "translation" : "встречать, отвечать (требованиям)"
+  },
+  "verb87" : {
+    "form1" : "mishear",
+    "form2" : "misheard",
+    "form3" : "misheard",
+    "translation" : "ослышаться"
+  },
+  "verb88" : {
+    "form1" : "mislay",
+    "form2" : "mislaid",
+    "form3" : "mislaid",
+    "translation" : "положить не на место, затерять"
+  },
+  "verb89" : {
+    "form1" : "mislead",
+    "form2" : "misled",
+    "form3" : "misled",
+    "translation" : "сбивать с пути, вводить в  заблуждение"
+  },
+  "verb90" : {
+    "form1" : "mistake",
+    "form2" : "mistook",
+    "form3" : "mistaken",
+    "translation" : "ошибаться"
+  },
+  "verb91" : {
+    "form1" : "mow",
+    "form2" : "mowed",
+    "form3" : "mown",
+    "translation" : "косить"
+  },
+  "verb92" : {
+    "form1" : "overcome",
+    "form2" : "overcame",
+    "form3" : "overcome",
+    "translation" : "преодолеть"
+  },
+  "verb93" : {
+    "form1" : "overdo",
+    "form2" : "overdid",
+    "form3" : "overdone",
+    "translation" : "перестараться"
+  },
+  "verb94" : {
+    "form1" : "overhear",
+    "form2" : "overheard",
+    "form3" : "overheard",
+    "translation" : "подслушивать"
+  },
+  "verb95" : {
+    "form1" : "overtake",
+    "form2" : "overtook",
+    "form3" : "overtaken",
+    "translation" : "догонять, обгонять"
+  },
+  "verb96" : {
+    "form1" : "pay",
+    "form2" : "paid",
+    "form3" : "paid",
+    "translation" : "платить"
+  },
+  "verb97" : {
+    "form1" : "put",
+    "form2" : "put",
+    "form3" : "put",
+    "translation" : "класть, назначить(цену), определить(стоимость)"
+  },
+  "verb98" : {
+    "form1" : "raise",
+    "form2" : "raised",
+    "form3" : "raised",
+    "translation" : "поднимать, повышать"
+  },
+  "verb99" : {
+    "form1" : "read",
+    "form2" : "read",
+    "form3" : "read",
+    "translation" : "читать"
+  },
+  "verb100" : {
+    "form1" : "ride",
+    "form2" : "rode",
+    "form3" : "ridden",
+    "translation" : "ездить(верхом)"
+  },
+  "verb101" : {
+    "form1" : "ring",
+    "form2" : "rang",
+    "form3" : "rung",
+    "translation" : "звонить"
+  },
+  "verb102" : {
+    "form1" : "rise",
+    "form2" : "rose",
+    "form3" : "risen",
+    "translation" : "подниматься"
+  },
+  "verb103" : {
+    "form1" : "run",
+    "form2" : "ran",
+    "form3" : "run",
+    "translation" : "бежать, руководить (фирмой), вести (дело)"
+  },
+  "verb104" : {
+    "form1" : "saw",
+    "form2" : "sawed",
+    "form3" : "sawn",
+    "translation" : "пилить"
+  },
+  "verb105" : {
+    "form1" : "say",
+    "form2" : "said",
+    "form3" : "said",
+    "translation" : "говорить, сказать"
+  },
+  "verb106" : {
+    "form1" : "see",
+    "form2" : "saw",
+    "form3" : "seen",
+    "translation" : "видеть"
+  },
+  "verb107" : {
+    "form1" : "seek",
+    "form2" : "sought",
+    "form3" : "sought",
+    "translation" : "искать, стремиться, прилагать усилия"
+  },
+  "verb108" : {
+    "form1" : "sell",
+    "form2" : "sold",
+    "form3" : "sold",
+    "translation" : "продавать"
+  },
+  "verb109" : {
+    "form1" : "send",
+    "form2" : "sent",
+    "form3" : "sent",
+    "translation" : "посылать, отправлять"
+  },
+  "verb110" : {
+    "form1" : "set",
+    "form2" : "set",
+    "form3" : "set",
+    "translation" : "помещать, приводить(в состояние), устанавливать"
+  },
+  "verb111" : {
+    "form1" : "sew",
+    "form2" : "sewed",
+    "form3" : "sewn",
+    "translation" : "шить"
+  },
+  "verb112" : {
+    "form1" : "shake",
+    "form2" : "shook",
+    "form3" : "shaken",
+    "translation" : "трясти(сь), потрясывать"
+  },
+  "verb113" : {
+    "form1" : "shave",
+    "form2" : "shaved",
+    "form3" : "shaven",
+    "translation" : "брить(ся), урезать (расходы, цену)"
+  },
+  "verb114" : {
+    "form1" : "shed",
+    "form2" : "shed",
+    "form3" : "shed",
+    "translation" : "сбрасывать, понижаться"
+  },
+  "verb115" : {
+    "form1" : "shine",
+    "form2" : "shone",
+    "form3" : "shone",
+    "translation" : "сиять, блестеть"
+  },
+  "verb116" : {
+    "form1" : "shoot",
+    "form2" : "shot",
+    "form3" : "shot",
+    "translation" : "стрелять, бросать, быстро повышаться"
+  },
+  "verb117" : {
+    "form1" : "show",
+    "form2" : "showed",
+    "form3" : "shown",
+    "translation" : "показывать"
+  },
+  "verb118" : {
+    "form1" : "shrink",
+    "form2" : "shrank",
+    "form3" : "shrunk",
+    "translation" : "сокращать(ся)"
+  },
+  "verb119" : {
+    "form1" : "shut",
+    "form2" : "shut",
+    "form3" : "shut",
+    "translation" : "закрывать(ся)"
+  },
+  "verb120" : {
+    "form1" : "sing",
+    "form2" : "sang",
+    "form3" : "sung",
+    "translation" : "петь"
+  },
+  "verb121" : {
+    "form1" : "sink",
+    "form2" : "sank",
+    "form3" : "sunk",
+    "translation" : "снижаться, погружаться; вкладывать(капитал), погашать(долг)"
+  },
+  "verb122" : {
+    "form1" : "sit",
+    "form2" : "sat",
+    "form3" : "sat",
+    "translation" : "сидеть"
+  },
+  "verb123" : {
+    "form1" : "slay",
+    "form2" : "slew",
+    "form3" : "slain",
+    "translation" : "убивать, уничтожать"
+  },
+  "verb124" : {
+    "form1" : "sleep",
+    "form2" : "slept",
+    "form3" : "slept",
+    "translation" : "спать"
+  },
+  "verb125" : {
+    "form1" : "slide",
+    "form2" : "slid",
+    "form3" : "slid",
+    "translation" : "скользить, понизиться (о ценах)"
+  },
+  "verb126" : {
+    "form1" : "sling",
+    "form2" : "slung",
+    "form3" : "slung",
+    "translation" : "подвешивать (что-л.)"
+  },
+  "verb127" : {
+    "form1" : "smell",
+    "form2" : "smelt",
+    "form3" : "smelt",
+    "translation" : "пахнуть, нюхать"
+  },
+  "verb128" : {
+    "form1" : "sow",
+    "form2" : "sowed",
+    "form3" : "sown",
+    "translation" : "сеять"
+  },
+  "verb129" : {
+    "form1" : "speak",
+    "form2" : "spoke",
+    "form3" : "spoken",
+    "translation" : "говорить"
+  },
+  "verb130" : {
+    "form1" : "speed",
+    "form2" : "sped",
+    "form3" : "sped",
+    "translation" : "спешить"
+  },
+  "verb131" : {
+    "form1" : "spell",
+    "form2" : "spelt",
+    "form3" : "spelt",
+    "translation" : "писать или произносить(слово) по буквам"
+  },
+  "verb132" : {
+    "form1" : "spend",
+    "form2" : "spent",
+    "form3" : "spent",
+    "translation" : "тратить, проводить (время)"
+  },
+  "verb133" : {
+    "form1" : "spill",
+    "form2" : "spilt",
+    "form3" : "spilt",
+    "translation" : "проливать"
+  },
+  "verb134" : {
+    "form1" : "spin",
+    "form2" : "spun",
+    "form3" : "spun",
+    "translation" : "прясть"
+  },
+  "verb135" : {
+    "form1" : "spit",
+    "form2" : "spat",
+    "form3" : "spat",
+    "translation" : "плевать(ся)"
+  },
+  "verb136" : {
+    "form1" : "split",
+    "form2" : "split",
+    "form3" : "split",
+    "translation" : "раскалывать(ся)"
+  },
+  "verb137" : {
+    "form1" : "spoil",
+    "form2" : "spoilt",
+    "form3" : "spoilt",
+    "translation" : "портить(ся)"
+  },
+  "verb138" : {
+    "form1" : "spread",
+    "form2" : "spread",
+    "form3" : "spread",
+    "translation" : "распространять(ся), отсрочить (платеж)"
+  },
+  "verb139" : {
+    "form1" : "spring",
+    "form2" : "sprang",
+    "form3" : "sprung",
+    "translation" : "возникать, происходить, прыгать"
+  },
+  "verb140" : {
+    "form1" : "stand",
+    "form2" : "stood",
+    "form3" : "stood",
+    "translation" : "стоять, выдерживать"
+  },
+  "verb141" : {
+    "form1" : "steal",
+    "form2" : "stole",
+    "form3" : "stolen",
+    "translation" : "красть"
+  },
+  "verb142" : {
+    "form1" : "stick",
+    "form2" : "stuck",
+    "form3" : "stuck",
+    "translation" : "приклеивать(ся)"
+  },
+  "verb143" : {
+    "form1" : "sting",
+    "form2" : "stung",
+    "form3" : "stung",
+    "translation" : "жалить, пробуждать"
+  },
+  "verb144" : {
+    "form1" : "stink",
+    "form2" : "stank",
+    "form3" : "stunk",
+    "translation" : "смердеть, вонять"
+  },
+  "verb145" : {
+    "form1" : "stride",
+    "form2" : "strode",
+    "form3" : "stridden",
+    "translation" : "шагать"
+  },
+  "verb146" : {
+    "form1" : "strike",
+    "form2" : "struck",
+    "form3" : "struck",
+    "translation" : "ударять(ся), бастовать, производить впечатление, приходить в голову"
+  },
+  "verb147" : {
+    "form1" : "string",
+    "form2" : "strung",
+    "form3" : "strung",
+    "translation" : "завязывать, связывать, натягивать"
+  },
+  "verb148" : {
+    "form1" : "strive",
+    "form2" : "strove",
+    "form3" : "striven",
+    "translation" : "стремиться, бороться"
+  },
+  "verb149" : {
+    "form1" : "swear",
+    "form2" : "swore",
+    "form3" : "sworn",
+    "translation" : "клясться, ругаться"
+  },
+  "verb150" : {
+    "form1" : "sweep",
+    "form2" : "swept",
+    "form3" : "swept",
+    "translation" : "мести"
+  },
+  "verb151" : {
+    "form1" : "swell",
+    "form2" : "swelled",
+    "form3" : "swollen",
+    "translation" : "раздуваться, набухать, увеличивать(ся)"
+  },
+  "verb152" : {
+    "form1" : "swim",
+    "form2" : "swam",
+    "form3" : "swum",
+    "translation" : "плавать"
+  },
+  "verb153" : {
+    "form1" : "swing",
+    "form2" : "swung",
+    "form3" : "swung",
+    "translation" : "колебаться, менять направление"
+  },
+  "verb154" : {
+    "form1" : "take",
+    "form2" : "took",
+    "form3" : "taken",
+    "translation" : "брать"
+  },
+  "verb155" : {
+    "form1" : "teach",
+    "form2" : "taught",
+    "form3" : "taught",
+    "translation" : "обучать"
+  },
+  "verb156" : {
+    "form1" : "tear",
+    "form2" : "tore",
+    "form3" : "torn",
+    "translation" : "разрывать, изнашивать(ся)"
+  },
+  "verb157" : {
+    "form1" : "tell",
+    "form2" : "told",
+    "form3" : "told",
+    "translation" : "сказать"
+  },
+  "verb158" : {
+    "form1" : "think",
+    "form2" : "thought",
+    "form3" : "thought",
+    "translation" : "думать"
+  },
+  "verb159" : {
+    "form1" : "thrive",
+    "form2" : "thrived",
+    "form3" : "thrived",
+    "translation" : "преуспевать, процветать"
+  },
+  "verb160" : {
+    "form1" : "throw",
+    "form2" : "threw",
+    "form3" : "thrown",
+    "translation" : "бросать"
+  },
+  "verb161" : {
+    "form1" : "thrust",
+    "form2" : "thrust",
+    "form3" : "thrust",
+    "translation" : "пронзать, толкать"
+  },
+  "verb162" : {
+    "form1" : "tread",
+    "form2" : "trod",
+    "form3" : "trodden",
+    "translation" : "ступать"
+  },
+  "verb163" : {
+    "form1" : "undergo",
+    "form2" : "underwent",
+    "form3" : "undergone",
+    "translation" : "подвергаться, испытывать"
+  },
+  "verb164" : {
+    "form1" : "understand",
+    "form2" : "understood",
+    "form3" : "understood",
+    "translation" : "понимать"
+  },
+  "verb165" : {
+    "form1" : "undertake",
+    "form2" : "undertook",
+    "form3" : "undertaken",
+    "translation" : "предпринимать, брать на себя (ответственность)"
+  },
+  "verb166" : {
+    "form1" : "undo",
+    "form2" : "undid",
+    "form3" : "undone",
+    "translation" : "открывать, расстегивать, уничтожать (сделанное)"
+  },
+  "verb167" : {
+    "form1" : "uphold",
+    "form2" : "upheld",
+    "form3" : "upheld",
+    "translation" : "поддерживать, одобрять"
+  },
+  "verb168" : {
+    "form1" : "upset",
+    "form2" : "upset",
+    "form3" : "upset",
+    "translation" : "огорчать, расстроиться(планы, здоровье)"
+  },
+  "verb169" : {
+    "form1" : "wake",
+    "form2" : "woke",
+    "form3" : "woken",
+    "translation" : "будить, просыпаться"
+  },
+  "verb170" : {
+    "form1" : "wear",
+    "form2" : "wore",
+    "form3" : "worn",
+    "translation" : "носить, изнашивать(ся)"
+  },
+  "verb171" : {
+    "form1" : "weep",
+    "form2" : "wept",
+    "form3" : "wept",
+    "translation" : "плакать"
+  },
+  "verb172" : {
+    "form1" : "wet",
+    "form2" : "wet",
+    "form3" : "wet",
+    "translation" : "смачивать, увлажнять"
+  },
+  "verb173" : {
+    "form1" : "win",
+    "form2" : "won",
+    "form3" : "won",
+    "translation" : "выигрывать, побеждать"
+  },
+  "verb174" : {
+    "form1" : "wind",
+    "form2" : "wound",
+    "form3" : "wound",
+    "translation" : "вертеть(ся), ликвидировать (фирму)"
+  },
+  "verb175" : {
+    "form1" : "withdraw",
+    "form2" : "withdrew",
+    "form3" : "withdrawn",
+    "translation" : "отменять, прекращать, отказываться"
+  },
+  "verb176" : {
+    "form1" : "withhold",
+    "form2" : "withheld",
+    "form3" : "withheld",
+    "translation" : "отказать, удерживать"
+  },
+  "verb177" : {
+    "form1" : "withstand",
+    "form2" : "withstood",
+    "form3" : "withstood",
+    "translation" : "противостоять, выдерживать"
+  },
+  "verb178" : {
+    "form1" : "wring",
+    "form2" : "wrung",
+    "form3" : "wrung",
+    "translation" : "скручивать, крутить"
+  },
+  "verb179" : {
+    "form1" : "write",
+    "form2" : "wrote",
+    "form3" : "written",
+    "translation" : "писать"
+  }
+}
